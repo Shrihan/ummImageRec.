@@ -1,0 +1,12 @@
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    color: lightgray;
+    background: dimgray;
+}
+.name_of_objects{
+    color:grey
+}
